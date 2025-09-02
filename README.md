@@ -10,13 +10,13 @@ I'm a first-year Computer Science student at Conestoga College and a self-taught
 ## 🧰 Languages and Tools
 
 **Languages:**  
-HTML • CSS • JavaScript • TypeScript • Java • Python • SQL
+HTML • CSS • JavaScript • TypeScript • Java • Python 
 
 **Frameworks & Libraries:**  
-React • Node.js • Express.js • AngularJS • FastAPI • MongoDB • TailwindCSS
+React • Node.js • Express.js • FastAPI • MongoDB • TailwindCSS
 
 **Tools & Platforms:**  
-Git • Docker • AWS (S3, Lambda, RDS) • Firebase • Heroku • Postman • Figma • Jira • GitHub
+Git • Docker • AWS (S3, Lambda, RDS) • Firebase • Heroku • Postman • Figma • GitHub
 
 ---
 
