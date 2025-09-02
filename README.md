@@ -16,7 +16,7 @@ HTML • CSS • JavaScript • TypeScript • Java • Python
 React • Node.js • Express.js • FastAPI • MongoDB • TailwindCSS
 
 **Tools & Platforms:**  
-Git • Docker • AWS (S3, Lambda, RDS) • Firebase • Heroku • Postman • Figma • GitHub
+Git • Docker • AWS (S3, Lambda, RDS) • Firebase • Heroku • Postman • Figma • GitHub • RapidAPI
 
 ---
 
