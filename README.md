@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mario Ezeh  
 **Software Developer | Tech Creator | Computer Science Student**
 
-I'm a first-year Computer Science student at Conestoga College and a self-taught software developer passionate about building real-world solutions. I specialize in frontend and backend development, with projects ranging from AI-powered search tools to collaborative event platforms. I also create engaging tech content on TikTok, where I share tutorials, product reviews, and developer tips.
+I'm a Second-Year Computer Science student and a self-taught software developer passionate about building real-world solutions. I specialize in frontend and backend development, with projects ranging from AI-powered search tools to Ride hailing optimization apps. I also create engaging tech content on TikTok, where I share tutorials and product reviews.
 
 🎯 **Currently focused on:** Python, React, Node.js, FastAPI, and exploring AI/ML tools for innovative applications.
 
